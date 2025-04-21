@@ -3,7 +3,7 @@ I made this so some people can message me when my phone is on silent.
 
 To use this, simply copy .env.example to .env and fill in the values.
 
-Copyright 2022 Tianyu Zhu (eric@ericz.me)
+Copyright 2022 Tianyu Zhu (me@ezrizhu.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
